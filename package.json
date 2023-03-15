@@ -1,12 +1,9 @@
 {
   "name": "maja-chat-app",
   "version": "1.0.0",
-  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/MajaCvitanic/MyChatApp/issues"
   },
-  "homepage": "https://github.com/MajaCvitanic/MyChatApp",
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  "homepage": "https://github.com/MajaCvitanic/MyChatApp#readme"
 }
