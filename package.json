@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MajaCvitanic/MyChatApp/issues"
   },
-  "homepage": "https://github.com/MajaCvitanic/MyChatApp#readme"
+  "homepage": "https://github.com/MajaCvitanic/MyChatApp#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
